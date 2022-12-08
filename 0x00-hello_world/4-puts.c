@@ -8,7 +8,7 @@
 int main(void)
 {
 	/*comment*/
-	char Mychar[] =  "\"Programming is like building a multilingual puzzle\n";
+	char Mychar[] =  "\"Programming is like building a multilingual puzzle";
 
 	puts(Mychar);
 	return (0);
